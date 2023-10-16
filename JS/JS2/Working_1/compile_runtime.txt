@@ -1,0 +1,35 @@
+//JavaScript code is compiled 
+--> The compiler checks the code before even executing 
+the first line of code, if compiler finds any mistake it will give an error 
+
+
+
+## Compilation Phase
+
+==> Tokenizing /Lexing
+--> the whole code is broken into small portion known as token.
+
+==>Parsing
+--> That token are understood and AST(Abstract Syntax Tree) is formed.
+
+==>Code Generation
+--> From that AST a executable code is formed.
+
+
+
+## Compilation phase is done
+--> Early error checking must be made == The compiler checks the code before even executing 
+the first line of code, if compiler finds any mistake it will give an error 
+--> A proper scope for varible must be made
+
+
+##Code Execuation Phase
+--> to execute code a execution context is created and that execution context  is known as 
+GLobal Execution context
+
+##Global Execution Context  is created as
+==> Creation Phase ==  any variable will be made and will point to undefined, and this values is fixed as window in browser
+
+==>Code execution Phase
+
+

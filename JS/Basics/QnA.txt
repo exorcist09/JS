@@ -1,0 +1,4 @@
+Question related to JS
+
+
+Q1 - When to use return and When to use console.log in function ? 

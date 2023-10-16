@@ -1,0 +1,9 @@
+Questions related to DOM JS
+
+
+Q1 - Difference between Section and Div ?
+Q2 - priorites between style type?
+Q3 - priorites between style, html, scripttype?
+Q4- full form of href,rel, src,?
+Q5 - Difference between Framework and Library ?
+Q6 - USe of Asynchronous JS and is React JS uses asynchronous JS?
